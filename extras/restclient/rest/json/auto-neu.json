@@ -1,0 +1,9 @@
+{
+  "modell": "Testrest",
+  "kilometerstand": 1,
+  "typ": "KLEINWAGEN",
+  "marke": "VW",
+  "preis": 4399.9,
+  "baujahr": "2022-01-31",
+  "schlagwoerter": ["JAVASCRIPT", "TYPESCRIPT"]
+}

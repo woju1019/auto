@@ -1,0 +1,9 @@
+{
+  "modell": "Alpha",
+  "kilometerstand": 1,
+  "typ": "TRANSPORTER",
+  "marke": "VW",
+  "preis": 2899.9,
+  "baujahr": "2022-01-31",
+  "schlagwoerter": ["JAVASCRIPT", "TYPESCRIPT"]
+}
