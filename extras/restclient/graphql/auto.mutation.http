@@ -112,7 +112,7 @@ mutation {
       kilometerstand: 5000,
       typ: CABRIO,
       marke: PORSCHE,
-      preis: 22_999.99,
+      preis: 22999.99,
       baujahr: "2022-02-01",
     }
   )
